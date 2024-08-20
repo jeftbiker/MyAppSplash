@@ -1,4 +1,4 @@
-package com.adso.myappsplash
+package com.adso.myappsplash.navigation
 
 enum class Screen { // Names to identify the screens
     LOGIN,

@@ -7,7 +7,6 @@ import androidx.navigation.NavType
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
-import com.adso.myappsplash.NavigationItem
 import com.adso.myappsplash.R
 import com.adso.myappsplash.data.Movie
 import com.adso.myappsplash.screens.DetailScreen

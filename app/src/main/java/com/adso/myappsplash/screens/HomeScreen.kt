@@ -23,7 +23,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import androidx.navigation.compose.rememberNavController
-import com.adso.myappsplash.NavigationItem
+import com.adso.myappsplash.navigation.NavigationItem
 import com.adso.myappsplash.R
 import com.adso.myappsplash.data.Movie
 

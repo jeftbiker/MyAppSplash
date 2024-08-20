@@ -66,7 +66,7 @@ fun MovieDetail(movie: Movie) {
                 .align(Alignment.CenterHorizontally)
                 .padding(
                     horizontal = 10.dp,
-                    vertical = 5.dp
+                    vertical = 80.dp
                 )
         )
     }
